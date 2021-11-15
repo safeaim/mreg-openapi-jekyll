@@ -1,6 +1,6 @@
 # Site settings
-baseurl: "/jekyll-openapi" # the subpath of your site, e.g. /blog
-url: "https://robertlove.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mreg-openapi-jekyll" # the subpath of your site, e.g. /blog
+url: "https://safeaim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: "#343a40" # The theme color of your site
 
 # Open Graph settings
